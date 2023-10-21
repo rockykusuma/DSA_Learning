@@ -9,5 +9,6 @@
         <page name='MaxProfit'/>
         <page name='ElectricityBill'/>
         <page name='TwoSum'/>
+        <page name='RomanToInt'/>
     </pages>
 </playground>
