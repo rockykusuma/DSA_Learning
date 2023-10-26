@@ -11,5 +11,6 @@
         <page name='TwoSum'/>
         <page name='RomanToInt'/>
         <page name='ValidParentesis'/>
+        <page name='ThreeLargestNumbers'/>
     </pages>
 </playground>
