@@ -10,5 +10,6 @@
         <page name='ElectricityBill'/>
         <page name='TwoSum'/>
         <page name='RomanToInt'/>
+        <page name='ValidParentesis'/>
     </pages>
 </playground>
