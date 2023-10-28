@@ -12,5 +12,6 @@
         <page name='RomanToInt'/>
         <page name='ValidParentesis'/>
         <page name='ThreeLargestNumbers'/>
+        <page name='reverseTheElement'/>
     </pages>
 </playground>
